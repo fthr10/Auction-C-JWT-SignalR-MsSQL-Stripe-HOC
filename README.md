@@ -25,6 +25,8 @@ This project was developed using **ASP.NET Core 7** and **React TypeScript** to 
 
 
 
+
+
 # Açık arttırma Uygulaması
 
 Bu proje, **ASP.NET Core 7** ve **React TypeScript** kullanarak modern bir web uygulaması geliştirmek amacıyla oluşturulmuştur. Aşağıda projede kullanılan teknolojiler ve entegrasyonlar hakkında bilgi bulabilirsiniz.
@@ -49,6 +51,11 @@ Bu proje, **ASP.NET Core 7** ve **React TypeScript** kullanarak modern bir web u
 
 ### 6. MSSQL Veritabanı Entegrasyonu
 - **Veri Tabanı Yönetimi**: **MSSQL** kullanılarak veri modelleme ve veritabanı yönetimi gerçekleştirilmiştir.
+
+
+
+
+
 
 
 ![Ekran görüntüsü 2024-09-09 142546](https://github.com/user-attachments/assets/acf4cbb8-1fcf-43fc-b1f8-808e71398586)
